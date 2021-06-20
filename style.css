@@ -1,0 +1,184 @@
+* { 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box ;
+	font-family: 	Oswald	;
+}
+
+
+
+body {
+	background-color: aliceblue;
+}
+
+#logo {
+	height: 40px;
+	weight: 30px;
+	margin-left: 30px;
+	padding: 0;
+}
+
+
+#cover-photo {
+	height: 200px;
+	widows: 500px;
+}
+
+.jumbotron {
+	height: 30vh;
+	margin left: 5px;
+	margin-bottom: 0px;
+	background: url(./code.jpg);
+	background-size: cover;
+	
+	
+}
+
+
+
+
+.navbar {
+	background-color: mediumaquamarine;
+	font-size: 25px;		
+	font-weight: bold;
+	font-family: fantasy;
+
+}
+
+.lead {
+	text-align: left;
+	font-family: sans-serif;
+}
+
+
+.student {
+	background: url(./student.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+	margin: 0;
+
+}
+
+#student {
+	padding-top: 120px;
+	font-size: 100px;
+	font-weight: 200;
+}
+
+#pstudent {
+	font-size: 25px;
+	font-style: italic;
+	color: mediumaquamarine;
+}
+
+#about-the-author {
+	font-family: monospace;
+	text-align: center;
+	font-size: 60px;
+	font-style: italic;
+	margin-top: 60px;
+
+}
+
+
+
+.carousel-item {
+	text-align: center;
+}
+
+#pic4 {
+	height: 100px;
+}
+
+
+
+
+
+#my-projects{
+	padding: 50px;
+	text-align: center;
+	font-family: monospace;
+	font-size: 50px;
+	text-decoration: underline;
+}
+
+
+.card-body {
+	text-align: center;
+	height: 400px;
+}
+
+
+
+.card-img-top {
+	height: 50%;
+}
+
+p {
+	text-align: center;
+}
+
+
+
+
+.btn {
+	background-color: mediumaquamarine;
+  	color: aquamarine;
+  	text-align: center;
+}
+
+#submit {
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+
+}
+
+#message-us {
+	height: 150px;
+}
+
+
+iframe {
+	margin-top: 30px;
+	margin-left: 16px;
+	height: 330px;
+	width: 600px;
+	text-align: center;
+}
+
+
+
+a {
+	color: floralwhite;
+}
+
+.container-fluid{
+	color: white;
+	text-align: center;
+	/*margin-top: 50px;
+	padding-top: 30px;*/
+}
+
+
+i {
+resize: vertical;
+}
+
+
+#footer1 {
+	background-color: mediumaquamarine;
+	margin-top: 20px;
+}
+
+h6 {
+	
+	padding-bottom: 20px;
+	color: ghostwhite;
+	font-size: 120%;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
